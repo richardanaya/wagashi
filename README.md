@@ -7,6 +7,8 @@ cargo add wagashi
 
 *Sparklines.*
 
+<img width="127" alt="Screen Shot 2022-07-30 at 7 36 57 PM" src="https://user-images.githubusercontent.com/294042/182007265-e13e59c7-adef-4a24-aefb-d43fa8282fc4.png">
+
 ```rust
 use wagashi::SparkLine;
 
