@@ -1,5 +1,7 @@
 # wagashi
 
+A terminal charting library.
+
 ```terminal
 cargo add wagashi
 ```
