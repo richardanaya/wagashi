@@ -6,7 +6,7 @@ authors = ["Richard Anaya"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/richardanaya/wagashi"
 readme="README.md"
-description = "Wagashi terminal chart rendering library"
+description = "Terminal chart library"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
